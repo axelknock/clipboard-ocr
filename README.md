@@ -2,7 +2,7 @@
 
 ## Description
 
-Run Tesseract Optical Character Recognition on image in session's clipboard (Wayland or Xclip) and output the text to the clipboard.
+Run Tesseract Optical Character Recognition (OCR) on image in session's clipboard (Wayland or Xorg) and output the text to the clipboard.
 
 ## Requirements
 
